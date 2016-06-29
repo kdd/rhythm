@@ -9,9 +9,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Android.Runtime.ResourceDesignerAttribute("rhythm.Resource", IsApplication=false)]
+[assembly: global::Android.Runtime.ResourceDesignerAttribute("Rhythm.Model.Resource", IsApplication=false)]
 
-namespace rhythm
+namespace Rhythm.Model
 {
 	
 	
@@ -40,11 +40,8 @@ namespace rhythm
 		public partial class String
 		{
 			
-			// aapt resource value: 0x7f020001
-			public static int ApplicationName = 2130837505;
-			
 			// aapt resource value: 0x7f020000
-			public static int Hello = 2130837504;
+			public static int ApplicationName = 2130837504;
 			
 			static String()
 			{
